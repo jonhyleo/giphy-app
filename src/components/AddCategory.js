@@ -32,6 +32,7 @@ const AddCategory = ({ setCategories }) => {
             type="text"
             className="form-control"
             placeholder="Type a category"
+            value={inputValue}
             onChange={handleInputChange}
           />
         </div>
