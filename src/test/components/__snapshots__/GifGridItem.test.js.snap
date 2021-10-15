@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test for GifGridItem component The component must be render properly 1`] = `
+<Fragment>
+  <div
+    className="col-sm-6 col-lg-4"
+  >
+    <div
+      className="card mb-4"
+    >
+      <div
+        className="card-img-wrapper"
+      >
+        <img
+          alt="Title"
+          className="card-img-top"
+          src="https://localhost/image.jpg"
+        />
+      </div>
+      <div
+        className="card-body"
+      >
+        <p
+          className="card-text"
+        >
+          Title
+        </p>
+      </div>
+    </div>
+  </div>
+</Fragment>
+`;
