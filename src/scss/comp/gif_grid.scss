@@ -1,0 +1,16 @@
+.card {
+  &-img-wrapper {
+    max-height: 180px;
+    overflow: hidden;
+  }
+
+  &-img,
+  &-img-top {
+    object-fit: cover;
+    max-height: 180px;
+  }
+}
+
+.form-control {
+  background: white !important;
+}
