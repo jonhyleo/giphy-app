@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests cases for GifGrid component should render 1`] = `
+<Fragment>
+  <section>
+    <div
+      className="sk-chase"
+    >
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+    </div>
+  </section>
+</Fragment>
+`;
+
+exports[`Tests cases for GifGrid component should show items when images are loaded using useFetchGifs 1`] = `
+<Fragment>
+  <section>
+    <div
+      className="sk-chase"
+    >
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+      <div
+        className="sk-chase-dot"
+      />
+    </div>
+  </section>
+</Fragment>
+`;
